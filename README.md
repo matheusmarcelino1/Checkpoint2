@@ -32,5 +32,6 @@ O sistema permite ao usuário escolher entre pagamento via **Cartão** ou **Bole
 
 ## Evidências de Execução
 
-<img width="1912" height="827" alt="image" src="https://github.com/user-attachments/assets/5f0ae9a7-a309-4244-a2ba-4f7094f779cf" />
+<img width="1912" height="827" alt="image" src="https://github.com/user-attachments/assets/ea9c8244-cc3e-43e7-8173-30461e4854eb" />
+
 
